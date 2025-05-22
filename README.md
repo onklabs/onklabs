@@ -1,4 +1,4 @@
-**OnkLabs** - developer specializing in lightweight, standalone applications and games for the Google Play Store. OnkLabs deliver optimized Android experiences that function seamlessly across all device specifications.
+**Developer** specializing in lightweight, standalone applications and games for the Google Play Store. OnkLabs delivers optimized Android experiences that function seamlessly across all device specifications.
 
 ## Core Principles
 

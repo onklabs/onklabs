@@ -25,15 +25,11 @@ Stay organized with our suite of tools, including:
 - Calendars
 - Task Management Utilities
 
-[View Productivity Apps](https://play.google.com/store/apps/developer?id=OnkLabs)
-
 ### 🎯 Arcade Classics
 Relive the golden age of gaming with modernized classics featuring:
 - Simple, addictive gameplay
 - Easy controls
 - No internet required
-
-[View Arcade Games](https://play.google.com/store/apps/developer?id=OnkLabs)
 
 ### 🎮 Classic Board Games
 Enjoy timeless board games like:
@@ -41,8 +37,6 @@ Enjoy timeless board games like:
 - Checkers
 - Backgammon
 - And more with adjustable difficulty levels
-
-[View Board Games](https://play.google.com/store/apps/developer?id=OnkLabs)
 
 [Discover All Our Apps on Google Play](https://play.google.com/store/apps/developer?id=OnkLabs)
 

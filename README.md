@@ -1,4 +1,5 @@
 ![OnkLabs Banner](https://onklabs.github.io/banner.jpg).
+
 Welcome to **OnkLabs**, where creativity meets simplicity! We are a passionate team dedicated to crafting **lightweight, standalone apps and games** for the Google Play Store. With **millions of downloads**, our apps deliver seamless entertainment and productivity experiences to Android users worldwide, even on low-spec devices.
 
 ## 🌟 Why OnkLabs?
@@ -29,13 +30,6 @@ Our apps are designed with **you** in mind, offering:
 - **Family-Friendly Content**: Safe and fun for users of all ages.
 - **Regular Maintenance**: Frequent updates to fix bugs and add features based on user feedback.
 - **Smart AdMob Integration**: Non-intrusive ads that respect your experience.
-
-### Our Ad Philosophy
-We use **Google AdMob** for monetization, ensuring a fair balance between development support and user enjoyment:
-- **Non-Intrusive Ads**: Placed at natural breaks to avoid disruption.
-- **Optional Rewarded Ads**: Watch ads by choice for in-app rewards.
-- **Family-Safe Content**: All ads are filtered for appropriateness.
-- **Optimized Loading**: Fast ad loading to minimize performance impact.
 
 ## 🛠️ Our Development Process
 

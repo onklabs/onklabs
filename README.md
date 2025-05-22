@@ -19,8 +19,6 @@ Our application suite encompasses three primary categories designed for universa
 **Arcade Gaming** - Classic entertainment experiences with modern optimization  
 **Board Games** - Traditional gameplay adapted for digital platforms  
 
-[View Complete Application Portfolio](https://play.google.com/store/apps/developer?id=OnkLabs)
-
 ## Technical Specifications
 
 **Architecture** - Lightweight design with minimal system resource requirements  

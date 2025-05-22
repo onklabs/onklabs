@@ -18,26 +18,10 @@ Our apps stand out with a focus on **user-friendly design**, **standalone functi
 
 Explore our diverse collection of apps and games, all designed to work **independently** and optimized for **all Android devices**.
 
-### 📝 Productivity Tools
-Stay organized with our suite of tools, including:
-- Note Keepers
-- To-Do Lists
-- Calendars
-- Task Management Utilities
-
-### 🎯 Arcade Classics
-Relive the golden age of gaming with modernized classics featuring:
-- Simple, addictive gameplay
-- Easy controls
-- No internet required
-
-### 🎮 Classic Board Games
-Enjoy timeless board games like:
-- Chess
-- Checkers
-- Backgammon
-- And more with adjustable difficulty levels
-
+- ** 📝 Productivity Tools
+- ** 🎯 Arcade Classics
+- ** 🎮 Classic Board Games
+- 
 [Discover All Our Apps on Google Play](https://play.google.com/store/apps/developer?id=OnkLabs)
 
 ## 🚀 What Sets Our Apps Apart
@@ -61,13 +45,8 @@ We use **Google AdMob** for monetization, ensuring a fair balance between develo
 We follow a streamlined process to deliver high-quality, standalone experiences:
 
 1. **Concept & Design** 💡  
-   We create intuitive apps focused on delivering value without internet dependency, optimized for all screen sizes.
-
 2. **Development & Testing** ⚙️  
-   Our team builds efficient code and rigorously tests across various Android devices to ensure flawless standalone performance.
-
 3. **User Feedback & Improvement** 👂  
-   Your feedback drives our updates. We listen to reviews and suggestions to enhance our apps continuously.
 
 ## 📢 Get Involved!
 

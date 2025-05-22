@@ -1,7 +1,3 @@
-![OnkLabs Banner](https://onklabs.github.io/banner.jpg)
-
-# OnkLabs
-
 **OnkLabs** is a development studio specializing in lightweight, standalone applications and games for the Google Play Store. We deliver optimized Android experiences that function seamlessly across all device specifications.
 
 ## Core Principles

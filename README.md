@@ -1,6 +1,6 @@
 # OnkLabs
 
-![OnkLabs Banner](https://via.placeholder.com/1200x300.png?text=OnkLabs+-+Simple,+Standalone,+Fun) <!-- Placeholder for banner image -->
+![OnkLabs Banner](https://onklabs.github.io/banner.jpg).
 
 Welcome to **OnkLabs**, where creativity meets simplicity! We are a passionate team dedicated to crafting **lightweight, standalone apps and games** for the Google Play Store. With **millions of downloads**, our apps deliver seamless entertainment and productivity experiences to Android users worldwide, even on low-spec devices.
 

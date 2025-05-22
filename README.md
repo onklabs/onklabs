@@ -1,4 +1,4 @@
-# OnkLabs
+# About Us
 
 ![OnkLabs Banner](https://onklabs.github.io/banner.jpg).
 

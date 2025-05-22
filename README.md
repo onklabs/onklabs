@@ -1,6 +1,6 @@
 ![OnkLabs Banner](https://onklabs.github.io/banner.jpg)
 
-Welcome to **OnkLabs**, where creativity meets simplicity! We are a passionate team dedicated to crafting **lightweight, standalone apps and games** for the Google Play Store. With **millions of downloads**, our apps deliver seamless entertainment and productivity experiences to Android users worldwide, even on low-spec devices.
+Welcome to **OnkLabs**, where creativity meets simplicity! We are a passionate team dedicated to crafting **lightweight, standalone apps and games** for the Google Play Store. Our apps deliver seamless entertainment and productivity experiences to Android users worldwide, even on low-spec devices.
 
 ## 🌟 Why OnkLabs?
 

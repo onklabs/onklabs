@@ -18,10 +18,10 @@ Our apps stand out with a focus on **user-friendly design**, **standalone functi
 
 Explore our diverse collection of apps and games, all designed to work **independently** and optimized for **all Android devices**.
 
-- ** 📝 Productivity Tools
-- ** 🎯 Arcade Classics
-- ** 🎮 Classic Board Games
-- 
+- **📝 Productivity Tools
+- **🎯 Arcade Classics
+- **🎮 Classic Board Games
+
 [Discover All Our Apps on Google Play](https://play.google.com/store/apps/developer?id=OnkLabs)
 
 ## 🚀 What Sets Our Apps Apart
